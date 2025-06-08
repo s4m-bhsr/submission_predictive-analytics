@@ -4,7 +4,6 @@
 
 Industri penerbangan merupakan salah satu sektor vital dalam konektivitas global, dengan harga tiket menjadi faktor penentu utama bagi konsumen dalam merencanakan perjalanan. Harga tiket pesawat bersifat sangat dinamis dan dipengaruhi oleh berbagai faktor kompleks seperti waktu pemesanan, musim, maskapai, rute penerbangan, dan lain-lain. Kemampuan untuk memprediksi harga tiket secara akurat dapat memberikan manfaat signifikan, baik bagi calon penumpang yang ingin mendapatkan harga optimal maupun bagi pihak maskapai dalam menentukan strategi penetapan harga yang kompetitif. Proyek ini bertujuan untuk membangun model machine learning yang dapat memprediksi harga tiket penerbangan di India berdasarkan serangkaian fitur yang tersedia dalam dataset historis.
 
-- 
 ## Business Understanding
 
 ### Problem Statements

@@ -240,6 +240,6 @@ Model final yang telah dilatih pada keseluruhan data pelatihan (X_train, y_train
 
 # Kesimpulan
 
-- Model machine learning mampu memprediksi dengan bai dengan R2 Score bernilai 0.97.
+- Model machine learning mampu memprediksi dengan baik dengan R2 Score bernilai 0.97.
 - Fitur `Duration_Total_Minutes` dan `Journey_Day` memiliki pengaruh yang tinggi.
 - Random Forest Regressor hasil hyperparameter tuning dipilih sebagai model akhir project ini.
